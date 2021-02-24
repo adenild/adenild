@@ -1,7 +1,6 @@
 <div align="center">
    <h2>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 </div>
-<hr>
 
 Trabalho com programação desde 2018, quando comecei, em uma empresa pequena, no time de desenvolvimento de um gerenciador de projetos interno. Desde então, participei da criação de páginas de administração, um gerenciador de biblioteca, um chatbot de Whatsapp, pipelines de treino e desenvolvimento de IA, e, mais recentemente, estou trabalhando em um projeto para facilitar a criação de labels para pequenas imagens.
 <hr>
