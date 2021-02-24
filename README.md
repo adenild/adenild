@@ -34,7 +34,7 @@ Trabalho com programação desde 2018, quando comecei, em uma empresa pequena, n
 
  :gear: Criando soluções pros meus problemas diários
 
- :rocket:  &nbsp; **Trabalhando**: **Vert** <br/>
+ :rocket:  &nbsp; **Trabalhando**: 🌲 Vert Integradora de TI <br/>
  :books: &nbsp; **Estudando**: Sistemas de Informação <br/>
  💬  &nbsp; **Sobre mim**: Curto animes, RPG de mesa e Faroeste <br/>
 
