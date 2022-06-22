@@ -5,19 +5,19 @@ Trabalho com programação desde 2018, quando comecei, em uma empresa pequena, n
  ```json
 {
 "python": {
-    "experience": "2 years and 5 months",
+    "experience": "3 years and 9 months",
     "frameworks": ["django", "flask", "fastAPI", "tkinter"],
     "favoriteProject": "bibliomanager",
-    "currentProject": "simple-label"
+    "currentProject": "batalha-de-feiticos"
   },
   "javascript": {
-    "experience": "1 year and 10 months",
+    "experience": "3 years and 2 months",
     "frameworks": ["vue.js", "express.js"],
     "favoriteProject": "witch-maze",
-    "currentProject": "witch-maze"
+    "currentProject": "null"
   },
   "lua": {
-    "experience": "11 months",
+    "experience": "2 years and 3 months",
     "frameworks": [],
     "favoriteProject": "rpg-faroeste",
     "currentProject": null
@@ -34,9 +34,7 @@ Trabalho com programação desde 2018, quando comecei, em uma empresa pequena, n
  :books: &nbsp; **Estudando**: Sistemas de Informação <br/>
  💬  &nbsp; **Sobre mim**: Curto animes, RPG de mesa e Faroeste <br/>
 
-  - ![Linkedin Badge](https://img.shields.io/badge/-Adenildo%20Junior-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adenildo.junior/)
-  - ![Gmail Badge](https://img.shields.io/badge/-adenildojunior52@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adenildojunior52@gmail.com)
-<hr>
+ [LinkedIn](https://www.linkedin.com/in/adenildo-junior/)<br/>
 
 ### :computer: Projects
 ⚗️ [Model Repository](https://github.com/adenild/model-repository) Constantly updated repo wheres i document my concept of good pratices on Gitflow<br/>
