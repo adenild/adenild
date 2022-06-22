@@ -14,7 +14,7 @@ Trabalho com programação desde 2018, quando comecei, em uma empresa pequena, n
     "experience": "3 years and 2 months",
     "frameworks": ["vue.js", "express.js"],
     "favoriteProject": "witch-maze",
-    "currentProject": "null"
+    "currentProject": null
   },
   "lua": {
     "experience": "2 years and 3 months",
